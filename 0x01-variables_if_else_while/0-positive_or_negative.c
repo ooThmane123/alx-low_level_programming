@@ -4,7 +4,7 @@
 /**
  * main - main block
  * Description: Get a rendom number and print the number
- * and if it positive, negative, or zero
+ * and if it is positive, negative, or zero
  * return : 0 
  */
 int main(void)
